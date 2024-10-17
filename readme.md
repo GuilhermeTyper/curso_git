@@ -21,5 +21,5 @@ def soma(a, b):
 ## Listas de tarefas:
 
 - [x] Área de membros
-- [ ] Integraçaõ com outros pagamentos
+- [ ] Integração com outros pagamentos
 - [x] CSS do rodapé
